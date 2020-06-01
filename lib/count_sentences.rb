@@ -21,7 +21,7 @@ class String
 #      return true
 #    else
 #      return false
-    end
+#    end
   end
 
   def count_sentences
